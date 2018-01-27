@@ -1,0 +1,101 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1
+{
+	font-family: 'Rancho', cursive;}
+
+#venue
+{
+	position:absolute;
+	top:500px;
+	left:830px;
+	font-variant:small-caps;}
+
+#venue h1
+{
+	color:#0C3;
+	font-family: 'Rancho', cursive;
+	animation:ease-in;}
+
+#prizes li
+{
+	font-size:18px;
+	font-weight:400;
+	font-family: 'Kotta One', serif;}
+
+#info
+{
+	font-size:18px;
+	font-weight:400;
+	font-family: 'Kotta One', serif;}
+#rules li
+{
+	font-size:18px;
+	font-weight:400;
+	font-family: 'Kotta One', serif;}
+#contact 
+{
+	font-size:18px;
+	font-weight:400;
+	font-family: 'Kotta One', serif;}
+	
+#button1
+{
+	position:fixed;
+	left:-15px;
+	top:100px;}
+	
+#button1:hover
+{
+	position:fixed;
+	left:0px;
+	top:100px;}
+	
+#button2
+{
+	position:fixed;
+	left:-15px;
+	top:260px;}
+	
+#button2:hover
+{
+	position:fixed;
+	left:0px;
+	top:260px;}
+	
+#button3
+{
+	position:fixed;
+	left:-15px;
+	top:420px;}
+	
+#button3:hover
+{
+	position:fixed;
+	left:0px;
+	top:420px;}
+	
+#button4
+{
+	position:fixed;
+	right:-15px;
+	top:180px;}
+	
+#button4:hover
+{
+	position:fixed;
+	right:0px;
+	top:180px;}
+	
+#button5
+{
+	position:fixed;
+	right:-15px;
+	top:340px;}
+	
+#button5:hover
+{
+	position:fixed;
+	right:0px;
+	top:340px;}
